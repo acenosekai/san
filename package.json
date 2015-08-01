@@ -21,6 +21,7 @@
   "homepage": "https://github.com/acenosekai/san#readme",
   "dependencies": {
     "express": "^4.13.2",
+    "sails-mysql": "^0.11.0",
     "waterline": "^0.10.26"
   }
 }
